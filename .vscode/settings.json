@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "parser.tab.hh": "c",
+        "iostream": "cpp",
+        "system_error": "c",
+        "__locale": "c",
+        "string": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp",
+        "type_traits": "c",
+        "map": "c",
+        "__tree": "c",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
